@@ -1,2 +1,31 @@
-Last updated: 2026-09-16 09:51:13 WIB
-Last updated: 2026-09-16 11:59:31 WIB
+# spec-kit
+
+
+
+## 📋 Overview
+
+This repository contains **462 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-16 12:11:32 WIB*
